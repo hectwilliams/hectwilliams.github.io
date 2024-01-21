@@ -3,64 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Contents:
-..    :numbered:
-
-
-books Database 
+.. image:: img/elec.png
+   :width: 30%
+   :scale: 100%
+   :height: 100px
+.. image:: img/gear.png
+   :width: 50%
+   :scale: 70%
+   :height: 100px
+.. image:: img/math.png
+   :width: 30%
+   :height: 100px
 =========================================
-Database stores book data  
-
-.. automodule:: flask_orm_schema 
-   :members: Book
-   :no-index:
-.. list-table:: Table: books
-   :widths: 25 25 25 25
-   :header-rows: 1
-
-   * - id
-     - author
-     - title
-     - available
-   * - 
-     - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-     - 
-
-.. automodule:: flask_orm_schema 
-   :members: BirthYear
-
-.. list-table:: Table: birth_years
-   :widths: 25 25
-   :header-rows: 1
-
-   * - author
-     - birth_year
-   * - 
-     - 
-
-.. note:: 
-   SQLAlchemy used to build database relational mapping
-
-Numbers API
+Table of Contents 
 =========================================
-CRUD routines to read and write to database 
 
-.. automodule:: flask_app
-   :members: 
+.. toctree::
+   :maxdepth: 2
 
-.. Warning:: 
-   The data handled by server is not persistent after shutdown. Also, data may not be syncrhonized if run with multiple server processes. 
+   contact.rst
+   edu.rst
+   work.rst
 
-Indices and tables
-==================
+.. _summary-sheet:
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+*"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing." - George Bernard Shaw*
