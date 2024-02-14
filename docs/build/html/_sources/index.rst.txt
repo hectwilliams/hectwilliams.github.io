@@ -24,6 +24,7 @@ Table of Contents
    contact.rst
    edu.rst
    work.rst
+   project.rst
 
 .. _summary-sheet:
 
