@@ -1,11 +1,14 @@
 ******************
-Projects
+Source/Projects
 ******************
 
 
 ------------------------------
 Electrical Engineering
 ------------------------------
+
+- Understanding Digital Signal Processing Solutions 
+    - https://github.com/hectwilliams/unravel-DSP
 
 ------------------------------
 FullStack Development 
@@ -17,3 +20,5 @@ FullStack Development
 ---------------
 ML/AI 
 ---------------
+- Hands-On Machine Learning with Scikit Learn Keras & Tensorflow 
+    - https://github.com/hectwilliams/machina_learn
