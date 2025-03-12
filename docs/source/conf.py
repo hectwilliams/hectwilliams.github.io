@@ -32,6 +32,6 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'alabaster'
-html_static_path = ['_static']  # static files location  /repo-root/docs/......../html/_static 
+html_static_path = ['../build/html/_static'] #['_static']  # static files location  /repo-root/docs/......../html/_static 
 
 
