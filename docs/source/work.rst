@@ -11,7 +11,7 @@ Results driven, pragmatic, energetic, passionate, gleeful, and team-building eng
 Summary
 -------------
 
-* 8+ year experience 
+* 9+ year experience 
 
 * RF/Digital Communications, Electronics, Research and Development 
 
