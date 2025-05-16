@@ -37,7 +37,7 @@ Experience
 
    * - HII(i.e. Huntington Ingalls Industries)
      - System Test Lead and FPGA Engineer
-     - 03/2022 - 06/2023 
+     - 03/2022 - 02/2024 
      - Syracuse, NY
 
 * Acted a subject matter expert managing RF system data analysis, reporting all aspects of platform integration
